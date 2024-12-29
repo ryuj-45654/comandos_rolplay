@@ -1,5 +1,7 @@
-📝Este addon agrega una serie de comandos de chat para mejorar la experiencia de roleplay en Garry's Mod. Los comandos están diseñados para diferenciar entre interacciones locales y globales, ofreciendo una herramienta flexible para jugadores y administradores.📝
+## 📝Este addon agrega una serie de comandos de chat para mejorar la experiencia de roleplay en Garry's Mod. Los comandos están diseñados para diferenciar entre interacciones locales y globales, ofreciendo una herramienta flexible para jugadores y administradores.📝
+
 📍 Comandos Locales 📍
+
 !me: 🤵Describe acciones en tercera persona visibles solo para jugadores cercanos.
 !do: 🌍Permite describir el entorno o eventos que ocurren en el rol, visibles solo para jugadores cercanos.
 !looc: 💬Mensajes fuera de personaje (LOOC) visibles únicamente para jugadores cercanos.
